@@ -6,7 +6,7 @@ sub=job.sge
 mkdir ionic_DOS
 cd ionic_DOS
 
-for U1 in  1.0 2.0
+for U1 in  1.0 2.0 3.0
 do
 mkdir -p U_$U1
 cd U_$U1
